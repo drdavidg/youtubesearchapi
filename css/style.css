@@ -1,0 +1,9 @@
+.container {
+	margin: 50px;
+}
+.thumbnails {
+	margin: 10px;
+}
+.container input {
+	display: block;
+}
